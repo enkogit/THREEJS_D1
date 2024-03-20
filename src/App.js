@@ -10,7 +10,7 @@ import { Head } from './components/head';
 import { Landing } from './components/landing';
 
 import { Token } from './components/token_bsc';
-import { TokenETH } from './components/token_eth';
+import { TokenSOL } from './components/token_sol';
 import { Xtronaut } from './components/xtronaut';
 import { Store } from './components/store';
 import { DogeDash } from './components/sub/doge-dash';
@@ -39,7 +39,7 @@ function App() {
       <div className='main'>
           <Head />
           <Landing />
-          <TokenETH />
+          <TokenSOL />
           <Xtronaut />
           <Token />
           <Cybertruck />

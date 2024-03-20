@@ -174,14 +174,14 @@ export function Xtronaut() {
               </div>
             </div>
             <p className="bottom-space-sm" />
-              <iframe
+              {/* <iframe
                     title="xtronaut claim frame"
                     src="https://gateway.ipfscdn.io/ipfs/Qmcine1gpZUbQ73nk7ZGCcjKBVFYXrEtqrhujXk3HDQ6Nn/erc721.html?contract=0x098772332B9459526A4396AFFAFE69A9988F775E&chainId=1&theme=dark&primaryColor=yellow"
                     width="600px"
                     height="600px"
                     style={{maxWidth: '100%'}}
                     frameborder="0"
-                    ></iframe>
+                    ></iframe> */}
                     <p className="bottom-space-sm" />
                     <div className="token__container">
               <div className='token__container-section' >
